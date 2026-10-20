@@ -25,14 +25,20 @@ En el campo: local `#6b8cff`, visitante `#ff4f8a`, balón `#e8ff2e`.
 
 ## Tipografía
 
-Por elegir entre diez combinaciones (en la web, `/type`). La elegida será la única en la web, el log y estas imágenes.
-Mientras tanto se usa la actual: Bricolage Grotesque, Instrument Serif cursiva, Geist y Geist Mono.
+Una sola en todas partes (web, log e imágenes): **Bricolage Grotesque** para titulares, **Instrument Serif** cursiva
+para la palabra que cambia el tono, **Geist** para el texto y **Geist Mono** para etiquetas y datos.
+
+## Imágenes animadas
+
+`banner.svg` y `site.svg` son SVG animados, con la misma técnica que el `header.svg` de jimy-k4: fuentes embebidas
+(solo los caracteres usados) y animaciones SMIL, que GitHub reproduce dentro de una imagen. El balón da una vuelta
+cada 24 s y el anillo, cada 40 s; con «Reducir movimiento» se quedan quietos.
 
 ## El balón
 
 Un icosaedro truncado (el balón clásico) dibujado como una malla de datos: pentágonos en blaugrana, hexágonos
-abiertos, nodos en los vértices y la cara oculta en rayos X. En la web gira solo y se puede chutar. En el avatar
-hace de punto del logo `gtt`. No usar el escudo ni las tipografías del FC Barcelona.
+abiertos, nodos en los vértices y la cara oculta en rayos X. En la web gira solo y se puede chutar; en el README
+rueda en bucle. En el avatar hace de punto del logo `gtt`. No usar el escudo ni las tipografías del FC Barcelona.
 
 ## Archivos para subir a mano
 

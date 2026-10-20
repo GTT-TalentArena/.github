@@ -1,10 +1,11 @@
 <!--
   Perfil de la organización. Las imágenes se generan desde la web
   (GTT-TalentArena/gtt-talentarena.github.io → npm run previews) para que la marca sea una sola.
+  banner.svg y site.svg son SVG animados (fuentes embebidas + SMIL), como el header.svg de jimy-k4.
 -->
 
 <a href="https://gtt-talentarena.github.io">
-  <img alt="GTT — Més que dades (more than data). Football analytics team at More than a Hack 2027, Talent Arena, Barcelona." src="https://raw.githubusercontent.com/GTT-TalentArena/.github/main/profile/assets/banner.png" width="100%">
+  <img alt="GTT — Més que dades (more than data). Football analytics team at More than a Hack 2027, Talent Arena, Barcelona." src="https://raw.githubusercontent.com/GTT-TalentArena/.github/main/profile/assets/banner.svg" width="100%">
 </a>
 
 <p align="center">
@@ -46,7 +47,7 @@ ball; the dashed ring is the ball the tracking lost.</sub>
 ## The _squad._
 
 <a href="https://gtt-talentarena.github.io/#squad">
-  <img alt="The squad: Jimy, Edu, Alejandro, Nico and Pablo." src="https://raw.githubusercontent.com/GTT-TalentArena/.github/main/profile/assets/squad.png" width="100%">
+  <img alt="The squad in a 1-2-2 on half a pitch: Alejandro in goal, Nico and Jimy at the back, Edu and Pablo up front." src="https://raw.githubusercontent.com/GTT-TalentArena/.github/main/profile/assets/squad.png" width="100%">
 </a>
 
 | # | Player | Role | Links |
@@ -57,7 +58,7 @@ ball; the dashed ring is the ball the tracking lost.</sub>
 | 04 | **Nico** | _Pending_ | [GitHub](https://github.com/n1co2611) · [Portfolio](https://nicolashidalgo.es/) · [LinkedIn](https://www.linkedin.com/in/nicolashidalgosalinas/) |
 | 05 | **Pablo** | _Pending_ | Coming soon |
 
-<sub>Roles are still being decided.</sub>
+<sub>A 1-2-2: Alejandro in goal, Nico and Jimy at the back, Edu and Pablo up front. Roles are still being decided.</sub>
 
 <br>
 
@@ -96,7 +97,7 @@ Every study, experiment and iteration — including the ones that fail — goes 
 ## Follow the _build._
 
 <a href="https://gtt-talentarena.github.io">
-  <img alt="Preview of the GTT website." src="https://raw.githubusercontent.com/GTT-TalentArena/.github/main/profile/assets/site.png" width="100%">
+  <img alt="Preview of the GTT website." src="https://raw.githubusercontent.com/GTT-TalentArena/.github/main/profile/assets/site.svg" width="100%">
 </a>
 
 <table>
