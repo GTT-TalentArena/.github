@@ -75,7 +75,7 @@ ball; the dashed ring is the ball the tracking lost.</sub>
 
 `Data analysis` `Algorithm development` `Evaluation & validation` `Engineering`
 
-Every study, experiment and iteration — including the ones that fail — goes into **[the log](https://gtt-talentarena.github.io/log/)**.
+Every study, improvement and test on the possession model — including the ones that fail — goes into **[the log](https://gtt-talentarena.github.io/log/)**.
 
 <br>
 
