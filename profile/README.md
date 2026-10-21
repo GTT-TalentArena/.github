@@ -52,11 +52,11 @@ ball; the dashed ring is the ball the tracking lost.</sub>
 
 | Player | Role | Links |
 | :-- | :-- | :-- |
-| **Jimy** | _Pending_ | [GitHub](https://github.com/jimy-k4) · [Portfolio](https://jimy-portfolio.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/juan-llinares-mauri) |
-| **Edu** | _Pending_ | [GitHub](https://github.com/hxst1) · [Portfolio](https://edu-ruiz-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/edu-ruiz-cantos) |
-| **Alejandro Molines** | _Pending_ | [GitHub](https://github.com/AlejandroMolines) · [LinkedIn](https://www.linkedin.com/in/alejandro-molines-00524822b/) |
-| **Nico** | _Pending_ | [GitHub](https://github.com/n1co2611) · [Portfolio](https://nicolashidalgo.es/) · [LinkedIn](https://www.linkedin.com/in/nicolashidalgosalinas/) |
-| **Pablo** | _Pending_ | [GitHub](https://github.com/PabloCordoba3) · [LinkedIn](https://www.linkedin.com/in/pablo-cordoba-simarro) |
+| **Jimy** | _Possession model_ | [GitHub](https://github.com/jimy-k4) · [Portfolio](https://jimy-portfolio.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/juan-llinares-mauri) |
+| **Edu** | _Evaluation and documentation_ | [GitHub](https://github.com/hxst1) · [Portfolio](https://edu-ruiz-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/edu-ruiz-cantos) |
+| **Alejandro Molines** | _GitHub, integration and delivery_ | [GitHub](https://github.com/AlejandroMolines) · [LinkedIn](https://www.linkedin.com/in/alejandro-molines-00524822b/) |
+| **Nico** | _Data and tracking_ | [GitHub](https://github.com/n1co2611) · [Portfolio](https://nicolashidalgo.es/) · [LinkedIn](https://www.linkedin.com/in/nicolashidalgosalinas/) |
+| **Pablo** | _Football context_ | [GitHub](https://github.com/PabloCordoba3) · [LinkedIn](https://www.linkedin.com/in/pablo-cordoba-simarro) |
 
 <sub>A 1-2-2: Alejandro in goal, Nico and Jimy at the back, Edu and Pablo up front. Roles are still being decided.</sub>
 
