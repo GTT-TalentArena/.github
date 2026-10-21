@@ -56,7 +56,7 @@ ball; the dashed ring is the ball the tracking lost.</sub>
 | 02 | **Edu** | _Pending_ | [GitHub](https://github.com/hxst1) · [Portfolio](https://edu-ruiz-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/edu-ruiz-cantos) |
 | 03 | **Alejandro Molines** | _Pending_ | [GitHub](https://github.com/AlejandroMolines) · [LinkedIn](https://www.linkedin.com/in/alejandro-molines-00524822b/) |
 | 04 | **Nico** | _Pending_ | [GitHub](https://github.com/n1co2611) · [Portfolio](https://nicolashidalgo.es/) · [LinkedIn](https://www.linkedin.com/in/nicolashidalgosalinas/) |
-| 05 | **Pablo** | _Pending_ | Coming soon |
+| 05 | **Pablo** | _Pending_ | [GitHub](https://github.com/PabloCordoba3) · [LinkedIn](https://www.linkedin.com/in/pablo-cordoba-simarro) |
 
 <sub>A 1-2-2: Alejandro in goal, Nico and Jimy at the back, Edu and Pablo up front. Roles are still being decided.</sub>
 
